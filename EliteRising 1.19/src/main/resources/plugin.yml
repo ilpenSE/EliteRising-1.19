@@ -1,0 +1,25 @@
+name: EliteRising
+version: '${project.version}'
+main: tr.elite.eliterising.EliteRising
+api-version: 1.19
+authors: [ SadeceEmir ]
+permissions:
+  start:
+    description: Needed permission to start the EliteRising
+    default: op
+commands:
+  start:
+    description: Start the EliteRising
+    usage: /<command> [normal|elytra|op|archery|build] [normal|solo|duo|triple|squad|half]
+  elteam:
+    description: Command related with team.
+    usage: /<command> [create|leave|invite|message|list]
+  mode:
+    description: You can edit, create, list etc. start modes.
+    usage: /<command> [create|delete|edit|list|info]
+  info:
+    description: More informations about EliteRising
+    usage: /<command>
+  davet:
+    description: The player can't direct use this command. This is in-code command. Don't use this.
+    usage: /<command>
