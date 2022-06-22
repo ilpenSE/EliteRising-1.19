@@ -54,7 +54,7 @@ Archery: Power 3 and Punch 1 bow and 10 arrows
 
 
 ## Information
-DEVELOPED BY: ***Sadece Emir, Elite Development*** \
+DEVELOPED BY: ***Sadece Emir, Elite Development***
 
 ORIGINAL CONCEPT: *This is not original project. EliteRising is moded package of [TheFloorIsLava](https://github.com/rtm516/TheFloorIsLava).*
 
