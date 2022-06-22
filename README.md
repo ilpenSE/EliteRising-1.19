@@ -53,7 +53,7 @@ Archery: Power 3 and Punch 1 bow and 10 arrows
 -Added welcome message (~~Turkish for now~~).
 
 
-### Developed By
+## Developed By
 Sadece Emir, Elite Development \
 
 FOLLOW ME EVERYWHERE: \
