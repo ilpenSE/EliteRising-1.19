@@ -49,4 +49,4 @@ Archery: Power 3 and Punch 1 bow and 10 arrows
 -Added tab complete on commands. \
 -Removed help command \
 -New improved chat. \
--Added welcome message (~~Turkish for now~~). \
+-Added welcome message (~~Turkish for now~~).
