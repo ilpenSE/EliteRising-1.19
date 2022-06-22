@@ -1,5 +1,6 @@
 # EliteRising for 1.19
 EliteRising is the best lava rising package in Minecraft. EliteRising has 1.19, 1.18 and 1.17 versions. You can download the .jar plugin or if you wanna develop this project, I drop here the open-source project.
+
 ## v1.2 Patch Notes
 This update maybe took very long time, but the update is big and it got very busy me for 1-2 weeks.
 
@@ -50,3 +51,12 @@ Archery: Power 3 and Punch 1 bow and 10 arrows
 -Removed help command \
 -New improved chat. \
 -Added welcome message (~~Turkish for now~~).
+
+
+### Developed By
+Sadece Emir, Elite Development \
+
+FOLLOW ME EVERYWHERE: \
+[Instagram](https://www.instagram.com/sadece.emir0/) \
+[Youtube](https://www.youtube.com/channel/UC6IvUFue9GxZdcnE9oYdtbQ) \
+[Twitter](https://twitter.com/SadeceEmir0)
