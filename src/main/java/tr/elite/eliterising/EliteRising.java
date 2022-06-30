@@ -84,25 +84,6 @@ public final class EliteRising extends JavaPlugin {
         }
         setTakeDamage(false);
 
-        /**
-         * ELITERISING V1.3 PATCH NOTES
-         *
-         * ADDITIONS
-         * -Added one more language support (EN/TR)
-         * -You can add ANY language at config.yml (but first values must be same with TR/EN)
-         * -Added /elversion command shows version of EliteRising
-         * -Added /lang command changes or gets language of EliteRising
-         * -Added TR/DE commands
-         *
-         * CHANGES & FIXES
-         * -Changed DEFAULT values:
-         * -Grace period time upgraded to 12 minutes from 10 minutes
-         * -Border size upgraded to 220 blocks from 200
-         * -Start height upgraded to -50 from -54
-         * -Increase amount upgraded to 2 from 1 block
-         * -Fixed if 1 player start game, that player's inventory didn't delete.
-         */
-
         // GAME RULES
         getServer().getWorlds().get(0).setGameRule(GameRule.FIRE_DAMAGE,false);
         getServer().getWorlds().get(0).setGameRule(GameRule.DROWNING_DAMAGE,false);
