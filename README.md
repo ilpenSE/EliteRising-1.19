@@ -1,8 +1,28 @@
 # EliteRising for 1.19
 EliteRising is the best lava rising package in Minecraft. EliteRising has 1.19, 1.18 and 1.17 versions. You can download the .jar plugin or if you wanna develop this project, I drop here the open-source project.
 
-## v1.2 Patch Notes
-This update maybe took very long time, but the update is big and it got very busy me for 1-2 weeks.
+## v1.3 Patch Notes // LANGUAGE UPDATE
+A few changes and important changes.
+
+### Addinations
+
+-Added one more language support (EN/TR) \
+-You can add ANY language at config.yml (but first values must be same with TR/EN) \
+-Added /elversion command shows version of EliteRising \
+-Added /lang command changes or gets language of EliteRising \
+-Added TR/DE commands
+
+### Changes & Fixes
+
+-Changed DEFAULT values: \
+-Grace period time upgraded to 12 minutes from 10 minutes \
+-Border size upgraded to 220 blocks from 200 \
+-Start height upgraded to -50 from -54 \
+-Increase amount upgraded to 2 from 1 block \
+-Fixed if 1 player start game, that player's inventory didn't delete.
+
+## v1.2 Patch Notes // CUSTOM MODES UPDATE
+Customizable start modes, new 2 commands.
 
 ### Addinations
 
@@ -14,11 +34,12 @@ This update maybe took very long time, but the update is big and it got very bus
 
 ### Changes & Fixes
 
--Changed the game language to fully English. (I can add other languages at v1.3) \
+-~~Changed the game language to fully English. (I can add other languages at v1.3)~~ \
 -Changed the command called /team_el to /elteam \
 -Fixed bug the if winner team has dead player, showed title called "game over" to dead player(s) (GAME OVER -> WON)
 
-## v1.1 Patch Notes (1.17-1.18)
+## v1.1 Patch Notes (1.17-1.18) // TEAMS AND MODES UPDATE
+Teams and start/team modes and a few changes
 
 ### Commands
 -Added team called ~~/team_el~~ in English, ~~/takım~~ in Turkish command. \
@@ -53,7 +74,7 @@ Archery: Power 3 and Punch 1 bow and 10 arrows
 -Added welcome message (~~Turkish for now~~).
 
 
-## Information
+## About
 DEVELOPED BY: ***Sadece Emir, Elite Development***
 
 ORIGINAL CONCEPT: *This is not original project. EliteRising is moded package of [TheFloorIsLava](https://github.com/rtm516/TheFloorIsLava).*
