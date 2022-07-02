@@ -1,8 +1,27 @@
 # EliteRising for 1.19
 EliteRising is the best lava rising package in Minecraft. EliteRising has 1.19, 1.18 and 1.17 versions. You can download the .jar plugin or if you wanna develop this project, I drop here the open-source project.
 
+## v1.4 Patch Notes // STATS UPDATE
+Many bug fixes, new commands
+
+### Addinations
+
+-Added /stats command which shows the MVP \
+-Added MVP System \
+-Added timed invites (expires after 1 minute but this time is customizable) \
+-Added /config command sets or gets config.yml \
+-Added assists
+
+### Changes & Fixes
+
+-Changed /lang command to /config \
+-Changed start mode's name to game modes \
+-Fixed showed title to dead player(s), if there is last player standing in a team \
+-Fixed information text that seems when used /info command \
+-Fixed welcome message
+
 ## v1.3 Patch Notes // LANGUAGE UPDATE
-A few changes and important changes.
+A few but important changes.
 
 ### Addinations
 
