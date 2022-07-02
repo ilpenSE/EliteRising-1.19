@@ -39,7 +39,7 @@ Q: HOW CAN I CHANGE CONFIGS? \
 A: You can use /config <config> <get/set> <value> for this. Already, the language set is like this and comes from here. You can change language, grace period time (at least 1 minute) and inviting expire time for now.
 
 Q: HOW CAN I SHOW STATS? \
-A: Ufortunately, you cannot see your private stats but you can see MVPs with kills, taken damage, assists and dealt damage after the game.
+A: Unfortunately, you cannot see your private stats but you can see MVPs with kills, taken damage, assists and dealt damage after the game.
 
 ## v1.4 Patch Notes // STATS UPDATE
 Many bug fixes, new commands
