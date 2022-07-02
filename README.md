@@ -1,7 +1,7 @@
 # EliteRising for 1.19
 EliteRising is the best lava rising package in Minecraft. EliteRising has 1.19, 1.18 and 1.17 versions. You can download the .jar plugin or if you wanna develop this project, I drop here the open-source project. \
 
-## FAQ // FREQUENTLY ASKED QUESTIONS
+## FAQ // GUIDE
 
 Q: HOW CAN I START GAME? \
 A: You can start game with /start (aliases: başlat, starten) command. If you wanna play with team or game modes, you can put game modes and team modes respectively after command.
