@@ -30,7 +30,7 @@ Q: HOW CAN I CHAT TO GENERAL? \
 A: If you have got a team, you can use the prefix "!" to chat general. Already, if you don't have got a team your messages that you sent, it sends to general automatically.
 
 Q: HOW CAN I CREATE TEAM? \
-A: You can use /elteam create command for this. By the way, you don't have to enter a name. EliteRising is gonna select a color and a name that comes from team color for you.
+A: You can use /elteam create command for this. By the way, you don't have to enter a name. EliteRising is gonna select a name which comes from team color and a color for you.
 
 Q: HOW CAN I CHANGE GAME LANGUAGE? \
 A: You can use /config language set <lang> for this. But there are 2 languages for now.
