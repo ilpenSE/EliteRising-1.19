@@ -1,6 +1,46 @@
 # EliteRising for 1.19
 EliteRising is the best lava rising package in Minecraft. EliteRising has 1.19, 1.18 and 1.17 versions. You can download the .jar plugin or if you wanna develop this project, I drop here the open-source project. \
 
+## FAQ // FREQUENTLY ASKED QUESTIONS
+
+Q: HOW CAN I START GAME? \
+A: You can start game with /start (aliases: başlat, starten) command. If you wanna play with team or game modes, you can put game modes and team modes respectively after command.
+
+Q: WHAT IS GAME MODES? \
+A: Game modes define the items on given when game start (already ex-name is start modes)
+
+Q: WHAT IS GAME MODE'S CONTENT? \
+A: Game Modes are **NORMAL (4 apple)**, **ELYTRA (1 elytra + 4 firework rocket)**, **OVERPOWERED (Full diamond armour enchanted with protection 4 + 16 enchanted golden apple)**, **BUILD (2 stacks of cobblestone)**, **ARCHERY (Punch 1, Power 3 bow + 10 arrow)**
+
+Q: WHAT IS TEAM MODES? \
+A: Team modes define how to distribute teams by a number. (but except normal mode) And team modes are: NORMAL, SOLO, DUO, TRIPLE, SQUAD, PENTA, HALF
+
+Q: CAN YOU EXPLAIN TEAM MODES ESPECIALLY HALF MODE? \
+A: You can use /elteam command at normal team mode, so this mode's name is normal. Everyone is alone in solo mode. Other modes like duo/triple/squad/penta distribute teams by a number (eg: duo is 2 so there are 2 players each a team). Half mode seperates the server by two and creates two teams called blue and red.
+
+Q: HOW CAN I CUSTOMIZE GAME MODES? \
+A: You can use /mode command for this. Then enter a custom mode name. Afterwards, enter a few items. But items' typing is important. Because if items don't type correctly, there will be a few problems. So: \
+  If you wanna ***only enchantment***: *minecraft:item_name{Enchantments:[{id:ench_name,level:lvl},{...}, ...]}* \
+  If you wanna ***only amount***: *minecraft:item_name/amount* \
+  If you wanna **both amount and enchantment***: *minecraft:item_name{Enchantments:[{id:ench_name,level:lvl},{...}, ...]}/amount* \
+  If you dont wanna anything: *minecraft:item_name* (if you dont enter amount, that will be 1 automatically) \
+And if you created a custom game mode, you can use that with /start command on start.
+
+Q: HOW CAN I CHAT TO GENERAL?
+A: If you have got a team, you can use the prefix "!" to chat general. Already, if you don't have got a team your messages that you sent, send to general automatically.
+
+Q: HOW CAN I CREATE TEAM?
+A: You can use /elteam create command for this. By the way, you don't have to enter a name. EliteRising is gonna select a color and a name that comes from team color for you.
+
+Q: HOW CAN I CHANGE GAME LANGUAGE? \
+A: You can use /config language set <lang> for this. But there are 2 languages for now.
+
+Q: HOW CAN I CHANGE CONFIGS? \
+A: You can use /config <config> <get/set> <value> for this. Already, the language set is like this and comes from here. You can change language, grace period time (at least 1 minute) and inviting expire time for now.
+
+Q: HOW CAN I SHOW STATS? \
+A: Ufortunately, you cannot see your private stats but you can see MVPs with kills, taken damage, assists and dealt damage after the game.
+
 ## v1.4 Patch Notes // STATS UPDATE
 Many bug fixes, new commands
 
@@ -91,46 +131,6 @@ Archery: Power 3 and Punch 1 bow and 10 arrows
 -Removed help command \
 -New improved chat. \
 -Added welcome message (~~Turkish for now~~).
-
-## FAQ // FREQUENTLY ASKED QUESTIONS
-
-Q: HOW CAN I START GAME? \
-A: You can start game with /start (aliases: başlat, starten) command. If you wanna play with team or game modes, you can put game modes and team modes respectively after command.
-
-Q: WHAT IS GAME MODES? \
-A: Game modes define the items on given when game start (already ex-name is start modes)
-
-Q: WHAT IS GAME MODE'S CONTENT? \
-A: Game Modes are **NORMAL (4 apple)**, **ELYTRA (1 elytra + 4 firework rocket)**, **OVERPOWERED (Full diamond armour enchanted with protection 4 + 16 enchanted golden apple)**, **BUILD (2 stacks of cobblestone)**, **ARCHERY (Punch 1, Power 3 bow + 10 arrow)**
-
-Q: WHAT IS TEAM MODES? \
-A: Team modes define how to distribute teams by a number. (but except normal mode) And team modes are: NORMAL, SOLO, DUO, TRIPLE, SQUAD, PENTA, HALF
-
-Q: CAN YOU EXPLAIN TEAM MODES ESPECIALLY HALF MODE? \
-A: You can use /elteam command at normal team mode, so this mode's name is normal. Everyone is alone in solo mode. Other modes like duo/triple/squad/penta distribute teams by a number (eg: duo is 2 so there are 2 players each a team). Half mode seperates the server by two and creates two teams called blue and red.
-
-Q: HOW CAN I CUSTOMIZE GAME MODES? \
-A: You can use /mode command for this. Then enter a custom mode name. Afterwards, enter a few items. But items' typing is important. Because if items don't type correctly, there will be a few problems. So: \
-  If you wanna ***only enchantment***: *minecraft:item_name{Enchantments:[{id:ench_name,level:lvl},{...}, ...]}* \
-  If you wanna ***only amount***: *minecraft:item_name/amount* \
-  If you wanna **both amount and enchantment***: *minecraft:item_name{Enchantments:[{id:ench_name,level:lvl},{...}, ...]}/amount* \
-  If you dont wanna anything: *minecraft:item_name* (if you dont enter amount, that will be 1 automatically) \
-And if you created a custom game mode, you can use that with /start command on start.
-
-Q: HOW CAN I CHAT TO GENERAL?
-A: If you have got a team, you can use the prefix "!" to chat general. Already, if you don't have got a team your messages that you sent, send to general automatically.
-
-Q: HOW CAN I CREATE TEAM?
-A: You can use /elteam create command for this. By the way, you don't have to enter a name. EliteRising is gonna select a color and a name that comes from team color for you.
-
-Q: HOW CAN I CHANGE GAME LANGUAGE? \
-A: You can use /config language set <lang> for this. But there are 2 languages for now.
-
-Q: HOW CAN I CHANGE CONFIGS? \
-A: You can use /config <config> <get/set> <value> for this. Already, the language set is like this and comes from here. You can change language, grace period time (at least 1 minute) and inviting expire time for now.
-
-Q: HOW CAN I SHOW STATS? \
-A: Ufortunately, you cannot see your private stats but you can see MVPs with kills, taken damage, assists and dealt damage after the game.
 
 ## About
 DEVELOPED BY: ***Sadece Emir, Elite Development***
