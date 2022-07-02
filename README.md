@@ -27,7 +27,7 @@ A: You can use /mode command for this. Then enter a custom mode name. Afterwards
 And if you created a custom game mode, you can use that with /start command on start.
 
 Q: HOW CAN I CHAT TO GENERAL? \
-A: If you have got a team, you can use the prefix "!" to chat general. Already, if you don't have got a team your messages that you sent, send to general automatically.
+A: If you have got a team, you can use the prefix "!" to chat general. Already, if you don't have got a team your messages that you sent, it sends to general automatically.
 
 Q: HOW CAN I CREATE TEAM? \
 A: You can use /elteam create command for this. By the way, you don't have to enter a name. EliteRising is gonna select a color and a name that comes from team color for you.
