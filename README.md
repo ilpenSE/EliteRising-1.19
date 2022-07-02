@@ -22,7 +22,7 @@ Q: HOW CAN I CUSTOMIZE GAME MODES? \
 A: You can use /mode command for this. Then enter a custom mode name. Afterwards, enter a few items. But items' typing is important. Because if items don't type correctly, there will be a few problems. So: \
   If you wanna ***only enchantment***: *minecraft:item_name{Enchantments:[{id:ench_name,level:lvl},{...}, ...]}* \
   If you wanna ***only amount***: *minecraft:item_name/amount* \
-  If you wanna **both amount and enchantment***: *minecraft:item_name{Enchantments:[{id:ench_name,level:lvl},{...}, ...]}/amount* \
+  If you wanna ***both amount and enchantment***: *minecraft:item_name{Enchantments:[{id:ench_name,level:lvl},{...}, ...]}/amount* \
   If you dont wanna anything: *minecraft:item_name* (if you dont enter amount, that will be 1 automatically) \
 And if you created a custom game mode, you can use that with /start command on start.
 
