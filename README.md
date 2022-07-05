@@ -41,6 +41,33 @@ A: You can use /config <config> <get/set> <value> for this. Already, the languag
 Q: HOW CAN I SHOW STATS? \
 A: Unfortunately, you cannot see your private stats but you can see MVPs with kills, taken damage, assists and dealt damage after the game.
 
+Q: HOW CAN I ADD CUSTOM GAME/TEAM MODES WITH CONFIG? \
+A: Go to config.yml in plugins/EliteRising (if you don't see this directory, you must start a server) After that, you can add custom game modes to custom_modes/gameModes in config.yml, or you can add custom team modes to custom_modes/teamModes (Already there are 2 example in file for game and team modes) And, you cannot create custom team modes by using /mode command.
+
+## v1.5 Patch Notes // MODES UPDATE PART II
+
+### Addinations
+-Added customizable team modes \
+-Added customizable game/team modes to config.yml \
+-Added sound when plays on winning game
+
+### Changes & Fixes
+-Changed version command \
+-Buffed Build Game mode \
+-Nerfed Overpowered Game mode \
+-Fixed if grace period equals or under zero, game winner's game will crash. \
+-Fixed check argument the grace period if under zero.
+
+#### Buffs
+CONTENT OF BUILD GAME MODE BUFF: \
+(INCREASE) 2 >> 3 stacks of cobblestone \
+(ADDINATION) +1 diamond axe (no enchantment)
+
+#### Nerfs
+CONTENT OF OVERPOWERED GAME MODE NERF: \
+(REDUCE) Diamond Armor Protection 4 >> 2 \
+(REMOVE & REDUCE) 16 ENCHANTED GOLDEN APPLE >> 8 GOLDEN APPLE (NO ENCH)
+
 ## v1.4 Patch Notes // STATS UPDATE
 Many bug fixes, new commands
 
