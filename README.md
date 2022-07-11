@@ -1,5 +1,7 @@
 # EliteRising for 1.19
-EliteRising is the best lava rising package in Minecraft. EliteRising has 1.19, 1.18 and 1.17 versions. You can download the .jar plugin or if you wanna develop this project, I drop here the open-source project.
+EliteRising is the best lava rising package in Minecraft. EliteRising has 1.19, 1.18 and 1.17 versions. You can download the .jar plugin or if you wanna develop this project, I drop here the open-source project. \
+
+(I will add v1.6 update to 1.16/17/18/19 and v1.6 is will last update)  
 
 ## FAQ // GUIDE
 
